@@ -1,2 +1,1 @@
-#!/bin/bash
-new
+echo "The school is open!"
